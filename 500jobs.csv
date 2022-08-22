@@ -1,0 +1,501 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+1,Data Scientist,$85.00 /hr (est.),Data Scientist,4.3,Infologitech,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+2,Data Scientist III,"$80,000 /yr (est.)",Data Scientist III,4.4,GTA (Global Technology Associates),"Englewood, CO","Englewood, CO",-1,-1,-1,-1,-1,-1,-1
+3,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+4,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+5,Data Scientist,$77.50 /hr (est.),Data Scientist,4.6,Kani Solutions,Remote,Remote,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $10 million (USD),-1
+6,Data Scientist,$87.50 /hr (est.),Data Scientist,5.0,Tricon IT Solutions (For End Clients),"Orlando, FL","Orlando, FL",-1,-1,-1,-1,-1,-1,-1
+7,Data Scientist - Personalization,"$85,503 /yr (est.)",Data Scientist - Personalization,4.0,Audible,"Newark, NJ","Newark, NJ",1001 to 5000 Employees,1995,Subsidiary or Business Segment,Film Production,Media & Communication,Unknown / Non-Applicable,-1
+8,Data Scientist,"$120,000 /yr (est.)",Data Scientist,5.0,Murmuration,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+9,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+10,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+11,Data Scientist,"$122,407 /yr (est.)",Data Scientist,3.6,Oscar Health,"New York, NY","New York, NY",1001 to 5000 Employees,2012,Company - Public,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),-1
+12,Data Scientist,"$95,127 /yr (est.)",Data Scientist,3.9,Toyota,"Plano, TX","Plano, TX",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+13,Data Scientist,$70.00 /hr (est.),Data Scientist,4.6,Teamware Solutions (quantum leap consulting).,Remote,Remote,1001 to 5000 Employees,2003,Company - Private,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+14,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+15,Data Scientist,$85.00 /hr (est.),Data Scientist,-1,Cilable,"Atlanta, GA","Atlanta, GA",-1,-1,-1,-1,-1,-1,-1
+16,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+17,Data Scientist,"$130,000 /yr (est.)",Data Scientist,-1,Advansys Solutions,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+18,Data Scientist II,"$109,250 /yr (est.)",Data Scientist II,4.0,Principal Financial Group,"Des Moines, IA","Des Moines, IA",10000+ Employees,1879,Company - Public,Investment & Asset Management,Financial Services,$10+ billion (USD),-1
+19,DATA SCIENTIST,"$110,107 /yr (est.)",DATA SCIENTIST,4.2,University of Washington,"Seattle, WA","Seattle, WA",10000+ Employees,1861,College / University,Colleges & Universities,Education,$2 to $5 billion (USD),-1
+20,Data Scientist,"$130,000 /yr (est.)",Data Scientist,3.7,EXCELACOM INC,"Englewood, CO","Englewood, CO",51 to 200 Employees,2000,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable,-1
+21,Data Scientist,"$105,963 /yr (est.)",Data Scientist,3.1,REVOLVE,"Cerritos, CA","Cerritos, CA",1001 to 5000 Employees,2003,Company - Public,"Department, Clothing & Shoe Stores",Retail & Wholesale,$500 million to $1 billion (USD),-1
+22,"Data Scientist, Data Science & Modeling","$134,452 /yr (est.)","Data Scientist, Data Science & Modeling",3.1,CardWorks,"South Jordan, UT","South Jordan, UT",501 to 1000 Employees,1987,Company - Private,Banking & Lending,Financial Services,$50 to $100 million (USD),-1
+23,Data Scientist Associate - CXI,"$90,000 /yr (est.)",Data Scientist Associate - CXI,3.7,SCAN Health Plan,"Long Beach, CA","Long Beach, CA",1001 to 5000 Employees,1977,Nonprofit Organization,Insurance Carriers,Insurance,$2 to $5 billion (USD),-1
+24,Data Scientist - Computer Vision,-1,Data Scientist - Computer Vision,-1,RadiusAI,"Bellevue, WA","Bellevue, WA",-1,-1,-1,-1,-1,-1,-1
+25,Data Scientist,"$134,415 /yr (est.)",Data Scientist,-1,Bell Federal Systems Inc.,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+26,Data Scientist,$57.50 /hr (est.),Data Scientist,-1,Openmind Technologies,"Vacaville, CA","Vacaville, CA",-1,-1,-1,-1,-1,-1,-1
+27,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+28,Marketing Data Scientist,"$120,000 /yr (est.)",Marketing Data Scientist,4.4,Indeed,"Austin, TX","Austin, TX",10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$2 to $5 billion (USD),-1
+29,Data Scientist,-1,Data Scientist,3.7,Business Intelli Solutions,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+30,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+31,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+32,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+33,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+34,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+35,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+36,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+37,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+38,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+39,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+40,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+41,Data Scientist III,"$80,000 /yr (est.)",Data Scientist III,4.4,GTA (Global Technology Associates),"Englewood, CO","Englewood, CO",-1,-1,-1,-1,-1,-1,-1
+42,Data Scientist,"$117,128 /yr (est.)",Data Scientist,3.4,Activision,"Santa Monica, CA","Santa Monica, CA",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$500 million to $1 billion (USD),-1
+43,Data Scientist,"$120,000 /yr (est.)",Data Scientist,5.0,Murmuration,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+44,Data Scientist,$87.50 /hr (est.),Data Scientist,5.0,Tricon IT Solutions (For End Clients),"Orlando, FL","Orlando, FL",-1,-1,-1,-1,-1,-1,-1
+45,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+46,Data Scientist,"$110,000 /yr (est.)",Data Scientist,3.0,FriendFinder Networks,Remote,Remote,201 to 500 Employees,1996,Company - Private,Internet & Web Services,Information Technology,$25 to $50 million (USD),-1
+47,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+48,Data Scientist,"$122,500 /yr (est.)",Data Scientist,-1,Dataworks,Remote,Remote,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1
+49,Data Scientist,"$130,000 /yr (est.)",Data Scientist,-1,Advansys Solutions,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+50,Data Scientist,$85.00 /hr (est.),Data Scientist,4.3,Infologitech,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+51,Data Scientist,$77.50 /hr (est.),Data Scientist,4.6,Kani Solutions,Remote,Remote,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $10 million (USD),-1
+52,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+53,Data Scientist,"$117,500 /yr (est.)",Data Scientist,4.0,Sia Partners,"New York, NY","New York, NY",1001 to 5000 Employees,1999,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),-1
+54,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+55,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+56,"Data Scientist, Data Science & Modeling","$134,452 /yr (est.)","Data Scientist, Data Science & Modeling",3.1,CardWorks,"South Jordan, UT","South Jordan, UT",501 to 1000 Employees,1987,Company - Private,Banking & Lending,Financial Services,$50 to $100 million (USD),-1
+57,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+58,Data Scientist,"$240,000 /mo (est.)",Data Scientist,-1,Motivated Leads,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+59,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+60,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+61,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+62,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+63,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+64,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+65,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+66,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+67,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+68,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+69,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+70,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+71,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+72,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+73,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+74,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+75,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+76,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+77,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+78,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+79,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+80,Data Scientist,"$117,128 /yr (est.)",Data Scientist,3.4,Activision,"Santa Monica, CA","Santa Monica, CA",1001 to 5000 Employees,1979,Subsidiary or Business Segment,Video Game Publishing,Media & Communication,$500 million to $1 billion (USD),-1
+81,Data Scientist,"$117,500 /yr (est.)",Data Scientist,4.0,Sia Partners,"New York, NY","New York, NY",1001 to 5000 Employees,1999,Company - Private,Business Consulting,Management & Consulting,$100 to $500 million (USD),-1
+82,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+83,Data Scientist,"$95,127 /yr (est.)",Data Scientist,3.9,Toyota,"Plano, TX","Plano, TX",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+84,Data Scientist,"$122,500 /yr (est.)",Data Scientist,-1,Dataworks,Remote,Remote,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1
+85,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+86,Data Scientist,$87.50 /hr (est.),Data Scientist,5.0,Tricon IT Solutions (For End Clients),"Orlando, FL","Orlando, FL",-1,-1,-1,-1,-1,-1,-1
+87,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+88,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+89,"Data Scientist, Data Science & Modeling","$134,452 /yr (est.)","Data Scientist, Data Science & Modeling",3.1,CardWorks,"South Jordan, UT","South Jordan, UT",501 to 1000 Employees,1987,Company - Private,Banking & Lending,Financial Services,$50 to $100 million (USD),-1
+90,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+91,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+92,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+93,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+94,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+95,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+96,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+97,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+98,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+99,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+100,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+101,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+102,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+103,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+104,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+105,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+106,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+107,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+108,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+109,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+110,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+111,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+112,Marketing Data Scientist,"$120,000 /yr (est.)",Marketing Data Scientist,4.4,Indeed,"Austin, TX","Austin, TX",10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$2 to $5 billion (USD),-1
+113,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+114,Data Scientist,$87.50 /hr (est.),Data Scientist,5.0,Tricon IT Solutions (For End Clients),"Orlando, FL","Orlando, FL",-1,-1,-1,-1,-1,-1,-1
+115,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+116,Data Scientist,"$122,500 /yr (est.)",Data Scientist,-1,Dataworks,Remote,Remote,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1
+117,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+118,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+119,"Data Scientist, Data Science & Modeling","$134,452 /yr (est.)","Data Scientist, Data Science & Modeling",3.1,CardWorks,"South Jordan, UT","South Jordan, UT",501 to 1000 Employees,1987,Company - Private,Banking & Lending,Financial Services,$50 to $100 million (USD),-1
+120,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+121,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+122,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+123,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+124,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+125,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+126,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+127,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+128,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+129,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+130,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+131,Marketing Data Scientist,"$120,000 /yr (est.)",Marketing Data Scientist,4.4,Indeed,"Austin, TX","Austin, TX",10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$2 to $5 billion (USD),-1
+132,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+133,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+134,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+135,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+136,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+137,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+138,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+139,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+140,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+141,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+142,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+143,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+144,Data Scientist,$87.50 /hr (est.),Data Scientist,5.0,Tricon IT Solutions (For End Clients),"Orlando, FL","Orlando, FL",-1,-1,-1,-1,-1,-1,-1
+145,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+146,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+147,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+148,Jr. Data Scientist,"$90,880 /yr (est.)",Jr. Data Scientist,4.0,Deloitte,"Austin, TX","Austin, TX",10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),-1
+149,Data Scientist,"$122,500 /yr (est.)",Data Scientist,-1,Dataworks,Remote,Remote,1 to 50 Employees,2021,Company - Private,Information Technology Support Services,Information Technology,$1 to $5 million (USD),-1
+150,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+151,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+152,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+153,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+154,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+155,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+156,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+157,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+158,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+159,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+160,Marketing Data Scientist,"$120,000 /yr (est.)",Marketing Data Scientist,4.4,Indeed,"Austin, TX","Austin, TX",10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$2 to $5 billion (USD),-1
+161,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+162,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+163,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+164,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+165,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+166,Jr. Data Scientist,"$90,880 /yr (est.)",Jr. Data Scientist,4.0,Deloitte,"Austin, TX","Austin, TX",10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),-1
+167,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+168,Data Scientist,$77.50 /hr (est.),Data Scientist,4.6,Kani Solutions,Remote,Remote,201 to 500 Employees,2009,Company - Private,Information Technology Support Services,Information Technology,$5 to $10 million (USD),-1
+169,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+170,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+171,Data Scientist,$85.00 /hr (est.),Data Scientist,4.3,Infologitech,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+172,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+173,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+174,Data Scientist (REMOTE),"$101,276 /yr (est.)",Data Scientist (REMOTE),3.6,Foot Locker,"New York, NY","New York, NY",10000+ Employees,1974,Company - Public,"Department, Clothing & Shoe Stores",Retail & Wholesale,$5 to $10 billion (USD),-1
+175,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+176,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+177,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+178,Data Scientist,$87.50 /hr (est.),Data Scientist,5.0,Tricon IT Solutions (For End Clients),"Orlando, FL","Orlando, FL",-1,-1,-1,-1,-1,-1,-1
+179,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+180,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+181,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+182,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+183,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+184,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+185,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+186,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+187,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+188,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+189,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+190,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+191,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+192,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+193,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+194,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+195,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+196,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+197,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+198,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+199,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+200,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+201,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+202,Jr. Data Scientist,"$90,880 /yr (est.)",Jr. Data Scientist,4.0,Deloitte,"Austin, TX","Austin, TX",10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),-1
+203,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+204,Marketing Data Scientist,"$120,000 /yr (est.)",Marketing Data Scientist,4.4,Indeed,"Austin, TX","Austin, TX",10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$2 to $5 billion (USD),-1
+205,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+206,Data Scientist,"$95,127 /yr (est.)",Data Scientist,3.9,Toyota,"Plano, TX","Plano, TX",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+207,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+208,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+209,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+210,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+211,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+212,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+213,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+214,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+215,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+216,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+217,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+218,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+219,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+220,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+221,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+222,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+223,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+224,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+225,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+226,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+227,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+228,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+229,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+230,Jr. Data Scientist,"$90,880 /yr (est.)",Jr. Data Scientist,4.0,Deloitte,"Austin, TX","Austin, TX",10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),-1
+231,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+232,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+233,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+234,Marketing Data Scientist,"$120,000 /yr (est.)",Marketing Data Scientist,4.4,Indeed,"Austin, TX","Austin, TX",10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$2 to $5 billion (USD),-1
+235,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+236,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+237,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+238,Data Scientist,"$95,127 /yr (est.)",Data Scientist,3.9,Toyota,"Plano, TX","Plano, TX",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+239,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+240,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+241,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+242,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+243,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+244,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+245,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+246,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+247,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+248,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+249,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+250,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+251,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+252,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+253,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+254,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+255,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+256,Jr. Data Scientist,"$90,880 /yr (est.)",Jr. Data Scientist,4.0,Deloitte,"Austin, TX","Austin, TX",10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),-1
+257,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+258,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+259,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+260,Data Scientist,"$95,127 /yr (est.)",Data Scientist,3.9,Toyota,"Plano, TX","Plano, TX",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+261,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+262,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+263,Data Scientist,"$144,796 /yr (est.)",Data Scientist,4.1,Pinterest,"Seattle, WA","Seattle, WA",1001 to 5000 Employees,2010,Company - Public,Internet & Web Services,Information Technology,$100 to $500 million (USD),-1
+264,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+265,Senior Data Scientist,"$165,585 /yr (est.)",Senior Data Scientist,4.2,Netflix,"Los Gatos, CA","Los Gatos, CA",5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),-1
+266,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
+267,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+268,Marketing Data Scientist,"$120,000 /yr (est.)",Marketing Data Scientist,4.4,Indeed,"Austin, TX","Austin, TX",10000+ Employees,2004,Company - Private,Internet & Web Services,Information Technology,$2 to $5 billion (USD),-1
+269,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+270,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+271,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+272,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+273,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+274,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+275,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+276,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+277,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+278,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+279,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+280,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+281,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+282,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+283,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+284,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+285,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+286,Jr. Data Scientist,"$90,880 /yr (est.)",Jr. Data Scientist,4.0,Deloitte,"Austin, TX","Austin, TX",10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),-1
+287,BHJOB15656_16794 - Data Scientist,-1,BHJOB15656_16794 - Data Scientist,3.7,Myticas Consulting,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+288,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+289,Senior Data Scientist,"$165,585 /yr (est.)",Senior Data Scientist,4.2,Netflix,"Los Gatos, CA","Los Gatos, CA",5001 to 10000 Employees,1997,Company - Public,Internet & Web Services,Information Technology,$5 to $10 billion (USD),-1
+290,Data Scientist,"$95,127 /yr (est.)",Data Scientist,3.9,Toyota,"Plano, TX","Plano, TX",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+291,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+292,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+293,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+294,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+295,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+296,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+297,Data Scientist,"$125,491 /yr (est.)",Data Scientist,3.5,National Security Agency,"Fort Meade, MD","Fort Meade, MD",-1,-1,-1,-1,-1,-1,-1
+298,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+299,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
+300,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+301,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+302,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+303,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+304,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+305,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+306,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+307,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+308,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+309,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+310,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+311,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+312,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+313,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+314,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+315,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+316,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+317,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+318,Jr. Data Scientist,"$90,880 /yr (est.)",Jr. Data Scientist,4.0,Deloitte,"Austin, TX","Austin, TX",10000+ Employees,1850,Company - Private,Accounting & Tax,Financial Services,$10+ billion (USD),-1
+319,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+320,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+321,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+322,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+323,Decision Scientist,"$91,614 /yr (est.)",Decision Scientist,3.9,The Walt Disney Company (Corporate),"Orlando, FL","Orlando, FL",10000+ Employees,1923,Company - Public,Film Production,Media & Communication,$10+ billion (USD),-1
+324,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+325,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+326,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+327,Jr. Data Scientist,"$131,020 /yr (est.)",Jr. Data Scientist,5.0,Aroopa,"San Francisco, CA","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1
+328,Data Scientist,"$95,127 /yr (est.)",Data Scientist,3.9,Toyota,"Plano, TX","Plano, TX",10000+ Employees,1957,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+329,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
+330,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+331,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+332,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+333,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+334,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+335,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+336,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+337,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+338,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+339,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+340,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+341,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+342,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+343,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+344,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+345,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+346,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+347,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+348,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+349,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+350,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+351,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+352,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+353,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+354,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+355,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
+356,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+357,Jr. Data Scientist,"$131,020 /yr (est.)",Jr. Data Scientist,5.0,Aroopa,"San Francisco, CA","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1
+358,Data Scientist,"$125,491 /yr (est.)",Data Scientist,3.5,National Security Agency,"Fort Meade, MD","Fort Meade, MD",-1,-1,-1,-1,-1,-1,-1
+359,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+360,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+361,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+362,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+363,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+364,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+365,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+366,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+367,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+368,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+369,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+370,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+371,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+372,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+373,Associate Data Scientist,-1,Associate Data Scientist,-1,T. Rowe Price,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+374,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+375,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+376,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+377,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+378,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+379,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+380,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+381,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+382,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+383,Decision Scientist,"$91,614 /yr (est.)",Decision Scientist,3.9,The Walt Disney Company (Corporate),"Orlando, FL","Orlando, FL",10000+ Employees,1923,Company - Public,Film Production,Media & Communication,$10+ billion (USD),-1
+384,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+385,Jr. Data Scientist,"$131,020 /yr (est.)",Jr. Data Scientist,5.0,Aroopa,"San Francisco, CA","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1
+386,Student Employee - Data Science,"$83,007 /yr (est.)",Student Employee - Data Science,5.0,Electric Power Research Institute,"Charlotte, NC","Charlotte, NC",-1,-1,-1,-1,-1,-1,-1
+387,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+388,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+389,Associate Data Scientist,"$110,000 /yr (est.)",Associate Data Scientist,3.8,Home Depot / THD,"Atlanta, GA","Atlanta, GA",10000+ Employees,1978,Company - Public,Home Furniture & Housewares Stores,Retail & Wholesale,$10+ billion (USD),-1
+390,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+391,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+392,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+393,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+394,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+395,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+396,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+397,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+398,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+399,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+400,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+401,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+402,Student Employee - Data Science,"$83,007 /yr (est.)",Student Employee - Data Science,5.0,Electric Power Research Institute,"Charlotte, NC","Charlotte, NC",-1,-1,-1,-1,-1,-1,-1
+403,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+404,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+405,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+406,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+407,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+408,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+409,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+410,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+411,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
+412,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+413,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+414,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+415,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+416,Jr. Data Scientist,"$131,020 /yr (est.)",Jr. Data Scientist,5.0,Aroopa,"San Francisco, CA","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1
+417,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+418,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+419,Decision Scientist,"$91,614 /yr (est.)",Decision Scientist,3.9,The Walt Disney Company (Corporate),"Orlando, FL","Orlando, FL",10000+ Employees,1923,Company - Public,Film Production,Media & Communication,$10+ billion (USD),-1
+420,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+421,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+422,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+423,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+424,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+425,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+426,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+427,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+428,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+429,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+430,Student Employee - Data Science,"$83,007 /yr (est.)",Student Employee - Data Science,5.0,Electric Power Research Institute,"Charlotte, NC","Charlotte, NC",-1,-1,-1,-1,-1,-1,-1
+431,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+432,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+433,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+434,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+435,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+436,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+437,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+438,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+439,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+440,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+441,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
+442,Jr. Data Scientist,"$131,020 /yr (est.)",Jr. Data Scientist,5.0,Aroopa,"San Francisco, CA","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1
+443,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+444,Junior Data Scientist,-1,Junior Data Scientist,3.5,Roq.ad GmbH,Resolution,Resolution,-1,-1,-1,-1,-1,-1,-1
+445,Decision Scientist,"$91,614 /yr (est.)",Decision Scientist,3.9,The Walt Disney Company (Corporate),"Orlando, FL","Orlando, FL",10000+ Employees,1923,Company - Public,Film Production,Media & Communication,$10+ billion (USD),-1
+446,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.2,RAC Brands,"Draper, UT","Draper, UT",10000+ Employees,1986,Company - Public,Consumer Electronics & Appliances Stores,Retail & Wholesale,$2 to $5 billion (USD),-1
+447,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+448,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+449,Data Scientist,"$125,491 /yr (est.)",Data Scientist,3.5,National Security Agency,"Fort Meade, MD","Fort Meade, MD",-1,-1,-1,-1,-1,-1,-1
+450,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+451,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+452,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+453,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+454,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+455,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+456,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+457,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+458,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+459,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+460,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+461,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+462,Student Employee - Data Science,"$83,007 /yr (est.)",Student Employee - Data Science,5.0,Electric Power Research Institute,"Charlotte, NC","Charlotte, NC",-1,-1,-1,-1,-1,-1,-1
+463,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+464,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+465,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+466,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+467,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+468,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+469,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
+470,Data Scientist II - 100% Remote,"$123,648 /yr (est.)",Data Scientist II - 100% Remote,4.2,Radian,Maryland,Maryland,1001 to 5000 Employees,1977,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+471,Associate Data Scientist,"$108,513 /yr (est.)",Associate Data Scientist,3.8,T. Rowe Price,"New York, NY","New York, NY",5001 to 10000 Employees,1937,Company - Public,Investment & Asset Management,Financial Services,$2 to $5 billion (USD),-1
+472,Data Scientist,"$119,232 /yr (est.)",Data Scientist,4.1,Nike,"New York, NY","New York, NY",10000+ Employees,1972,Company - Public,Consumer Product Manufacturing,Manufacturing,$10+ billion (USD),-1
+473,Web3 Wallet Data Scientist,$70.00 /hr (est.),Web3 Wallet Data Scientist,4.2,Layer3,Remote,Remote,51 to 200 Employees,2005,Company - Private,"Cable, Internet & Telephone Providers",Telecommunications,Unknown / Non-Applicable,-1
+474,Jr. Data Scientist,"$131,020 /yr (est.)",Jr. Data Scientist,5.0,Aroopa,"San Francisco, CA","San Francisco, CA",-1,-1,-1,-1,-1,-1,-1
+475,Data Scientist,"$115,000 /yr (est.)",Data Scientist,-1,"3G Federal Solutions, LLC",Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+476,Data Scientist,-1,Data Scientist,5.0,Flipside Crypto,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+477,Decision Scientist,"$91,614 /yr (est.)",Decision Scientist,3.9,The Walt Disney Company (Corporate),"Orlando, FL","Orlando, FL",10000+ Employees,1923,Company - Public,Film Production,Media & Communication,$10+ billion (USD),-1
+478,Data Scientist,$75.00 /hr (est.),Data Scientist,-1,Mint-Technologies,"Richmond, VA","Richmond, VA",-1,-1,-1,-1,-1,-1,-1
+479,Data Scientist,"$125,491 /yr (est.)",Data Scientist,3.5,National Security Agency,"Fort Meade, MD","Fort Meade, MD",-1,-1,-1,-1,-1,-1,-1
+480,Data Scientist or Statistician,"$93,500 /yr (est.)",Data Scientist or Statistician,3.9,UT Southwestern Medical Center,Remote,Remote,10000+ Employees,1943,Hospital,Health Care Services & Hospitals,Healthcare,$2 to $5 billion (USD),-1
+481,Jr. Data Scientist,"$72,500 /yr (est.)",Jr. Data Scientist,-1,Net2Aspire,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+482,Data Scientist (Junior),"$100,000 /yr (est.)",Data Scientist (Junior),1.4,BDSA,"Louisville, CO","Louisville, CO",-1,-1,-1,-1,-1,-1,-1
+483,Junior Data Scientist,"$100,000 /yr (est.)",Junior Data Scientist,-1,Talentheed Inc,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+484,"Data Scientist, Personalization","$112,574 /yr (est.)","Data Scientist, Personalization",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+485,Junior Data Scientist,"$80,000 /yr (est.)",Junior Data Scientist,3.7,Acima,"Draper, UT","Draper, UT",501 to 1000 Employees,2013,Company - Public,Banking & Lending,Financial Services,Unknown / Non-Applicable,-1
+486,Junior Data Scientist,"$57,500 /yr (est.)",Junior Data Scientist,4.3,Augray,"Brookfield, WI","Brookfield, WI",51 to 200 Employees,2014,Subsidiary or Business Segment,Information Technology Support Services,Information Technology,Unknown / Non-Applicable,-1
+487,"Senior or Staff Data Scientist, Spotify Advertising","$144,096 /yr (est.)","Senior or Staff Data Scientist, Spotify Advertising",4.2,Spotify,"New York, NY","New York, NY",5001 to 10000 Employees,2006,Company - Public,Internet & Web Services,Information Technology,Unknown / Non-Applicable,-1
+488,decision scientist (multiple openings) - Remote,"$77,487 /yr (est.)",decision scientist (multiple openings) - Remote,3.8,Starbucks,"Seattle, WA","Seattle, WA",10000+ Employees,1971,Company - Public,Restaurants & Cafes,Restaurants & Food Service,$10+ billion (USD),-1
+489,(Junior / Senior) Data Scientist - Sports Analytics,"$112,500 /yr (est.)",(Junior / Senior) Data Scientist - Sports Analytics,-1,Zelus Analytics,"Austin, TX","Austin, TX",-1,-1,-1,-1,-1,-1,-1
+490,Sports Data Scientist,-1,Sports Data Scientist,-1,MOORvision,Remote,Remote,-1,-1,-1,-1,-1,-1,-1
+491,Data Scientist (Remote),"$154,000 /yr (est.)",Data Scientist (Remote),3.5,Yelp,Remote,Remote,5001 to 10000 Employees,2004,Company - Public,Internet & Web Services,Information Technology,$500 million to $1 billion (USD),-1
+492,Student Employee - Data Science,"$83,007 /yr (est.)",Student Employee - Data Science,5.0,Electric Power Research Institute,"Charlotte, NC","Charlotte, NC",-1,-1,-1,-1,-1,-1,-1
+493,Data Science Associate (Remote),"$59,834 /yr (est.)",Data Science Associate (Remote),5.0,pulseData,"New York, NY","New York, NY",1 to 50 Employees,2015,Company - Private,Health Care Services & Hospitals,Healthcare,Unknown / Non-Applicable,-1
+494,Data Scientist (Entry Level),"$79,054 /yr (est.)",Data Scientist (Entry Level),4.4,Revenue Analytics,"Atlanta, GA","Atlanta, GA",51 to 200 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+495,Data Scientist,"$124,750 /yr (est.)",Data Scientist,3.9,Liberty Mutual Insurance,Remote,Remote,10000+ Employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1
+496,Data Science & Analytics,"$97,146 /yr (est.)",Data Science & Analytics,5.0,Digital Trike,"South Jordan, UT","South Jordan, UT",-1,-1,-1,-1,-1,-1,-1
+497,Data Scientist - (Remote),"$112,500 /yr (est.)",Data Scientist - (Remote),4.3,Genentech,"Indianapolis, IN","Indianapolis, IN",10000+ Employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,$10+ billion (USD),-1
+498,Data Scientist,"$99,885 /yr (est.)",Data Scientist,2.2,Source Enterprises,"New York, NY","New York, NY",-1,-1,-1,-1,-1,-1,-1
+499,Data Scientist,"$111,264 /yr (est.)",Data Scientist,3.0,CVS Health,"New York, NY","New York, NY",10000+ Employees,1963,Company - Public,Health Care Services & Hospitals,Healthcare,$10+ billion (USD),-1
